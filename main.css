@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+nav {
+    background-color: #050A30;
+    overflow: hidden;
+    margin-top: 0;
+    position: sticky;
+    top: 0%;
+}
+
+nav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+
+html {
+    color: #050A30;
+}
+
+.header {
+    height: 50px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+h3 {
+    margin-top: 0;
+}

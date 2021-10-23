@@ -1,0 +1,1 @@
+This is the first project outlined in the Odin Project curriculum.
